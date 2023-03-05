@@ -337,7 +337,7 @@
     {
       "title": "AT-44 1944",
       "preview": "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%209/caecd_00.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%209/caecd_01.png",
         "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%209/caecd_02.png",
@@ -427,7 +427,7 @@
     {
       "title": "TKB-022/1961",
       "preview": "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%2011/bda_00.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%2011/bda_01.png",
         "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%2011/bda_02.png",
@@ -502,7 +502,7 @@
     {
       "title": "AKA-47/1947",
       "preview": "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%2013/b8150_00.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%2013/b8150_01.png",
         "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%2013/b8150_02.png",
